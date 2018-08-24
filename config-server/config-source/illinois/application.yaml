@@ -1,0 +1,8 @@
+config:
+  name: App for Illinois
+  dynamic:
+    context:
+      country: us
+      state: illinois
+      company: google
+      user: empty

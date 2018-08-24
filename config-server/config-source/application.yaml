@@ -1,0 +1,5 @@
+config:
+  name: Default App
+  dynamic:
+    context:
+      country: us

@@ -1,0 +1,5 @@
+config:
+  name: App for Italy
+  dynamic:
+    context:
+      country: it
